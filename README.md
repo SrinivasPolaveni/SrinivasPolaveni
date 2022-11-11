@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SrinivasPolaveni/SrinivasPolaveni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React Hooks
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/srinivas-polaveni-82a2b4239/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
--->
